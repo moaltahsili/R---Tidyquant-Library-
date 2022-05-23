@@ -11,5 +11,3 @@ The main advantage is being able to use quantitative functions with the 'tidyver
 ### Note
 I used revealjs which is a RMarkdown library that must be installed  (based on the JavaScript library for HTML presentations reveal.js)
 There is some good documentation for reveal.js markdown [here](https://bookdown.org/yihui/rmarkdown/revealjs.html)
-
-To open *.html file enter URL of the HTML file to this website: (http://htmlpreview.github.io/) or prepend to the URL: http://htmlpreview.github.io/?
