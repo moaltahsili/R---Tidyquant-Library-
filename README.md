@@ -1,5 +1,7 @@
-# R-Tidyquant-Library
+# R-markdown presentation
 This project demonstrates how R-markdown helps create a beautiful presentation.
+
+In this report, I discussed one of the libraries in R, called Tidyquant, which is helpful for financial analysis.
 
 ## Benefits of Working with Tidyquant Library
 Bringing business and financial analysis to the 'tidyverse'. 
